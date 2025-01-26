@@ -38,7 +38,7 @@ Before running the project locally, ensure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Satyam-Mishra-1/next-meet.git
+git clone https://github.com/Satyam-Mishra-1/Next-Meet
 
 ```
 
